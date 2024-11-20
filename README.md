@@ -30,10 +30,10 @@
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="35px">
   </a>
   <a href="https://www.github.com/Mahmoud-Al-Ebrahim">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="35px">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="25px">
   </a>
   <a href="https://www.facebook.com/mahmoud.alebrahim.1?mibextid=ZbWKwL">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg" width="35px">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg" width="25px">
   </a>
 </div>
 <!--
