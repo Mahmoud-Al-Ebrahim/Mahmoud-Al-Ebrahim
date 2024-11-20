@@ -23,13 +23,13 @@
 
 ## Connect With Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px" align="center">
 <div>
-  <a href="linkedin.com/in/mahmoud-alebrahim">
+  <a href="https://www.linkedin.com/in/mahmoud-alebrahim">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="35px">
   </a>
   <a href="http://www.google.com">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="35px">
   </a>
-  <a href=" github.com/Mahmoud-Al-Ebrahim">
+  <a href="https://www.github.com/Mahmoud-Al-Ebrahim">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="35px">
   </a>
   <a href="https://www.facebook.com/mahmoud.alebrahim.1?mibextid=ZbWKwL">
