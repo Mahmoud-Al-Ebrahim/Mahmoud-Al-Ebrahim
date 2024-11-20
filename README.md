@@ -1,4 +1,4 @@
-## Hi, I'm Mahmoud AlEbrahim 👋
+## Hi, I'm Mahmoud AlEbrahim (https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Master+in+software+engineering;Up+to+date+with+latest+trends;Algorithms+|+Problem+Solving+|+Clean+Code;Design+Patterns+|+SOLID+|+OOP)](https://git.io/typing-svg)
 <!--
 **Mahmoud-Al-Ebrahim/Mahmoud-Al-Ebrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
