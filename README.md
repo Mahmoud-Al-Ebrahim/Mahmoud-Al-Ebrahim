@@ -28,7 +28,6 @@
 		c0.2,0.4,0.1,0.9-0.3,1.1C14.2,20.9,14.1,21,14,21z"/>
 </g>
 </svg>
-oid.svg…]()
 
 <!--
 **Mahmoud-Al-Ebrahim/Mahmoud-Al-Ebrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
