@@ -23,18 +23,10 @@
 
 ## Connect With Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px" align="center">
 <div>
-  <a href="https://www.linkedin.com/in/mahmoud-alebrahim" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="30px" style="display:block; border:0;">
-  </a>
-  <a href="https://www.instagram.com/mahmoud_al_ebrahim?igsh=eHBlNDJjZGN1eXk2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="30px" style="display:block; border:0;">
-  </a>
-  <a href="https://www.github.com/Mahmoud-Al-Ebrahim" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="30px" style="display:block; border:0;">
-  </a>
-  <a href="https://www.facebook.com/mahmoud.alebrahim.1?mibextid=ZbWKwL" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg" width="30px" style="display:block; border:0;">
-  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-alebrahim"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="30px"</a>
+  <a href="https://www.instagram.com/mahmoud_al_ebrahim?igsh=eHBlNDJjZGN1eXk2"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="30px"></a>
+  <a href="https://www.github.com/Mahmoud-Al-Ebrahim"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="30px"></a>
+  <a href="https://www.facebook.com/mahmoud.alebrahim.1?mibextid=ZbWKwL"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg" width="30px"></a>
 </div>
 <!--
 **Mahmoud-Al-Ebrahim/Mahmoud-Al-Ebrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
