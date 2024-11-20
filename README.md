@@ -6,7 +6,7 @@
 - 🏫 I am a currently studying master in Software Engineering at Aleppo University
 - 🧑‍💻 I love using Software as a solution for every Problem
 - 🗺️ I am based on Syrian Arab Republic
-- 🤔 I’m currently open for: An Intermdiate or a new job opportunity, this is MY RESUME.
+- 🤔 I’m currently open for: An Intermdiate or a new job opportunity, this is [MY RESUME](#https://docs.google.com/document/d/1nrC7ZRsPEvFODNeKfreHjFIY4Oi2ZRJFUjqxy6nTbqI/edit?tab=t.0#heading=h.fy6x4udl86fx).
 <!--
 **Mahmoud-Al-Ebrahim/Mahmoud-Al-Ebrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
