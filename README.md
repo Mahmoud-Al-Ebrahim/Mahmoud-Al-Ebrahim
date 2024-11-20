@@ -23,16 +23,16 @@
 
 ## Connect With Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px" align="center">
 <div>
-  <a href="https://www.linkedin.com/in/mahmoud-alebrahim">
+  <a href="https://www.linkedin.com/in/mahmoud-alebrahim" target="_blank">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="30px" border="0" style="display:block; border:0;">
   </a>
-  <a href="https://www.instagram.com/mahmoud_al_ebrahim?igsh=eHBlNDJjZGN1eXk2">
+  <a href="https://www.instagram.com/mahmoud_al_ebrahim?igsh=eHBlNDJjZGN1eXk2" target="_blank">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="30px" border="0" style="display:block; border:0;">
   </a>
-  <a href="https://www.github.com/Mahmoud-Al-Ebrahim">
+  <a href="https://www.github.com/Mahmoud-Al-Ebrahim" target="_blank">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="30px" border="0" style="display:block; border:0;">
   </a>
-  <a href="https://www.facebook.com/mahmoud.alebrahim.1?mibextid=ZbWKwL">
+  <a href="https://www.facebook.com/mahmoud.alebrahim.1?mibextid=ZbWKwL" target="_blank">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg" width="30px" border="0" style="display:block; border:0;">
   </a>
 </div>
