@@ -23,10 +23,10 @@
 
 ## Connect With Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px" align="center">
 <div>
-  <a href="https://www.linkedin.com/in/mahmoud-alebrahim" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/mahmoud-alebrahim" style="none">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="30px">
   </a>
-  <a href="https://www.instagram.com/mahmoud_al_ebrahim?igsh=eHBlNDJjZGN1eXk2" style="text-decoration:none;">
+  <a href="https://www.instagram.com/mahmoud_al_ebrahim?igsh=eHBlNDJjZGN1eXk2" style="none">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" width="30px">
   </a>
   <a href="https://www.github.com/Mahmoud-Al-Ebrahim" style="text-decoration:none;">
