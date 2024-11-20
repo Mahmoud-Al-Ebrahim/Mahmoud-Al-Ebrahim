@@ -12,7 +12,7 @@
 - 🤔 I’m currently open for: An Intermdiate or a new job opportunity, this is [MY RESUME](https://docs.google.com/document/d/1nrC7ZRsPEvFODNeKfreHjFIY4Oi2ZRJFUjqxy6nTbqI/edit?tab=t.0#heading=h.fy6x4udl86fx)
 - 🤓 Always stying `up to date` with latest `technology trends`
 
-## Skills ![alt](https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif|width=5|height=5)
+## Skills ![alt](https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif)
 
 <!--
 **Mahmoud-Al-Ebrahim/Mahmoud-Al-Ebrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
