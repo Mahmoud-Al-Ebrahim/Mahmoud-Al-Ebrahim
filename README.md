@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Mahmoud AlEbrahim 👋</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Master+in+software+engineering;Up+to+date+with+latest+trends;Trainer+|+Teacher;Algorithms+|+Problem+Solving+|+DS;Design+Patterns+|+SOLID+|+OOP)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Master+in+software+engineering;Up+to+date+with+latest+trends;Trainer+|+Teacher;Algorithms+|+Problem+Solving+|+DS;Design+Patterns+|+SOLID+|+OOP&center=true)](https://git.io/typing-svg)
 
 ## 💁‍♂️ About me
 - 🧑‍🎓 I am a `Graduated` at Faculty of Computers & Informatics at Aleppo University
