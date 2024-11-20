@@ -1,5 +1,5 @@
 ## Hi, I'm Mahmoud AlEbrahim 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Master+in+software+engineering;Up+to+date+with+latest+trends;Algorithms+|+Problem+Solving+|+Clean+Code;Design+Patterns+|+SOLID+|+OOP)](https://git.io/typing-svg)
 <!--
 **Mahmoud-Al-Ebrahim/Mahmoud-Al-Ebrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
